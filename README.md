@@ -172,7 +172,7 @@ https://github.com/user-attachments/assets/a79b3b18-1456-4509-a025-a948109f66e2
 
 ## 🤝 **Group Project**
 
-This project is a collaboration between **Harman Deep Singh** and **Manav Gupta**. We would like to extend our special thanks to Manav for his incredible contributions to the development and growth of this project. Together, we aim to leverage machine learning to make agriculture smarter and more efficient.
+This project is a collaboration between myself, Manav Gupta, and Harman Deep Singh. I would like to extend my special thanks to Harman for his incredible contributions to the development and growth of this project. Together, we aim to leverage machine learning to make agriculture smarter and more efficient.
 
 ---
 
